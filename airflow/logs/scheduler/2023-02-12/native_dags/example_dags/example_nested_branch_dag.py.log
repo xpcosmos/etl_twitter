@@ -1,0 +1,18 @@
+[2023-02-12 13:57:21,336] {processor.py:153} INFO - Started process (PID=31833) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-02-12 13:57:21,336] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-02-12 13:57:21,337] {logging_mixin.py:115} INFO - [2023-02-12 13:57:21,337] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-02-12 13:57:21,390] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-02-12 13:57:22,501] {logging_mixin.py:115} INFO - [2023-02-12 13:57:22,501] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_nested_branch_dag
+[2023-02-12 13:57:22,513] {logging_mixin.py:115} INFO - [2023-02-12 13:57:22,513] {manager.py:508} INFO - Created Permission View: can read on DAG:example_nested_branch_dag
+[2023-02-12 13:57:22,522] {logging_mixin.py:115} INFO - [2023-02-12 13:57:22,521] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_nested_branch_dag
+[2023-02-12 13:57:22,522] {logging_mixin.py:115} INFO - [2023-02-12 13:57:22,522] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 13:57:22,532] {logging_mixin.py:115} INFO - [2023-02-12 13:57:22,532] {dag.py:2398} INFO - Creating ORM DAG for example_nested_branch_dag
+[2023-02-12 13:57:22,546] {logging_mixin.py:115} INFO - [2023-02-12 13:57:22,546] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-02-11T00:00:00+00:00, run_after=2023-02-12T00:00:00+00:00
+[2023-02-12 13:57:22,564] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 1.229 seconds
+[2023-02-12 13:59:06,942] {processor.py:153} INFO - Started process (PID=31992) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-02-12 13:59:06,943] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-02-12 13:59:06,943] {logging_mixin.py:115} INFO - [2023-02-12 13:59:06,943] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-02-12 13:59:06,984] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-02-12 13:59:07,071] {logging_mixin.py:115} INFO - [2023-02-12 13:59:07,071] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 13:59:07,092] {logging_mixin.py:115} INFO - [2023-02-12 13:59:07,091] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-02-11T00:00:00+00:00, run_after=2023-02-12T00:00:00+00:00
+[2023-02-12 13:59:07,105] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.164 seconds

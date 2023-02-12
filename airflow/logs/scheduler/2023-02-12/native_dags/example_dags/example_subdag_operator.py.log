@@ -1,0 +1,30 @@
+[2023-02-12 13:56:56,991] {processor.py:153} INFO - Started process (PID=31822) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-12 13:56:56,991] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-12 13:56:56,992] {logging_mixin.py:115} INFO - [2023-02-12 13:56:56,992] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-12 13:56:57,130] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-12 13:56:58,206] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,206] {manager.py:508} INFO - Created Permission View: can read on DAG:example_subdag_operator
+[2023-02-12 13:56:58,217] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,217] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_subdag_operator
+[2023-02-12 13:56:58,226] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,226] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_subdag_operator
+[2023-02-12 13:56:58,226] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,226] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-12 13:56:58,237] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,237] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator
+[2023-02-12 13:56:58,238] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,238] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator.section-1
+[2023-02-12 13:56:58,239] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,238] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator.section-2
+[2023-02-12 13:56:58,252] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,252] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-12 13:56:58,253] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,252] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-12 13:56:58,253] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,253] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-12 13:56:58,261] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,261] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-12 13:56:58,267] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,267] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-12 13:56:58,267] {logging_mixin.py:115} INFO - [2023-02-12 13:56:58,267] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-12 13:56:58,279] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 1.289 seconds
+[2023-02-12 13:58:50,682] {processor.py:153} INFO - Started process (PID=31967) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-12 13:58:50,682] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-12 13:58:50,683] {logging_mixin.py:115} INFO - [2023-02-12 13:58:50,683] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-12 13:58:50,763] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-12 13:58:50,815] {logging_mixin.py:115} INFO - [2023-02-12 13:58:50,814] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-12 13:58:50,836] {logging_mixin.py:115} INFO - [2023-02-12 13:58:50,836] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-12 13:58:50,837] {logging_mixin.py:115} INFO - [2023-02-12 13:58:50,837] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-12 13:58:50,837] {logging_mixin.py:115} INFO - [2023-02-12 13:58:50,837] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-12 13:58:50,843] {logging_mixin.py:115} INFO - [2023-02-12 13:58:50,843] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-12 13:58:50,848] {logging_mixin.py:115} INFO - [2023-02-12 13:58:50,848] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-12 13:58:50,848] {logging_mixin.py:115} INFO - [2023-02-12 13:58:50,848] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-12 13:58:50,875] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.195 seconds

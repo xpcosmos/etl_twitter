@@ -1,0 +1,11 @@
+[2023-02-12 13:57:38,941] {processor.py:153} INFO - Started process (PID=31858) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-02-12 13:57:38,941] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-02-12 13:57:38,942] {logging_mixin.py:115} INFO - [2023-02-12 13:57:38,941] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-02-12 13:57:39,467] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-02-12 13:57:40,414] {logging_mixin.py:115} INFO - [2023-02-12 13:57:40,413] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_dag_decorator
+[2023-02-12 13:57:40,423] {logging_mixin.py:115} INFO - [2023-02-12 13:57:40,423] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_dag_decorator
+[2023-02-12 13:57:40,429] {logging_mixin.py:115} INFO - [2023-02-12 13:57:40,429] {manager.py:508} INFO - Created Permission View: can read on DAG:example_dag_decorator
+[2023-02-12 13:57:40,430] {logging_mixin.py:115} INFO - [2023-02-12 13:57:40,429] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 13:57:40,438] {logging_mixin.py:115} INFO - [2023-02-12 13:57:40,438] {dag.py:2398} INFO - Creating ORM DAG for example_dag_decorator
+[2023-02-12 13:57:40,449] {logging_mixin.py:115} INFO - [2023-02-12 13:57:40,449] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-02-12 13:57:40,472] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 1.532 seconds

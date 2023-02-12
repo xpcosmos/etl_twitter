@@ -1,0 +1,11 @@
+[2023-02-12 13:57:54,772] {processor.py:153} INFO - Started process (PID=31882) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-12 13:57:54,773] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-12 13:57:54,774] {logging_mixin.py:115} INFO - [2023-02-12 13:57:54,774] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-12 13:57:54,880] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-12 13:57:55,993] {logging_mixin.py:115} INFO - [2023-02-12 13:57:55,993] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_branch_operator
+[2023-02-12 13:57:56,004] {logging_mixin.py:115} INFO - [2023-02-12 13:57:56,003] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_branch_operator
+[2023-02-12 13:57:56,012] {logging_mixin.py:115} INFO - [2023-02-12 13:57:56,012] {manager.py:508} INFO - Created Permission View: can read on DAG:example_branch_operator
+[2023-02-12 13:57:56,012] {logging_mixin.py:115} INFO - [2023-02-12 13:57:56,012] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 13:57:56,022] {logging_mixin.py:115} INFO - [2023-02-12 13:57:56,022] {dag.py:2398} INFO - Creating ORM DAG for example_branch_operator
+[2023-02-12 13:57:56,035] {logging_mixin.py:115} INFO - [2023-02-12 13:57:56,035] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-11T00:00:00+00:00, run_after=2023-02-12T00:00:00+00:00
+[2023-02-12 13:57:56,053] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 1.282 seconds

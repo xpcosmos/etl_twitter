@@ -1,0 +1,11 @@
+[2023-02-12 13:57:51,095] {processor.py:153} INFO - Started process (PID=31874) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-02-12 13:57:51,095] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2023-02-12 13:57:51,095] {logging_mixin.py:115} INFO - [2023-02-12 13:57:51,095] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-02-12 13:57:51,157] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_python_operator_decorator']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-02-12 13:57:52,299] {logging_mixin.py:115} INFO - [2023-02-12 13:57:52,298] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_branch_python_operator_decorator
+[2023-02-12 13:57:52,311] {logging_mixin.py:115} INFO - [2023-02-12 13:57:52,310] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_branch_python_operator_decorator
+[2023-02-12 13:57:52,320] {logging_mixin.py:115} INFO - [2023-02-12 13:57:52,320] {manager.py:508} INFO - Created Permission View: can read on DAG:example_branch_python_operator_decorator
+[2023-02-12 13:57:52,320] {logging_mixin.py:115} INFO - [2023-02-12 13:57:52,320] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 13:57:52,332] {logging_mixin.py:115} INFO - [2023-02-12 13:57:52,332] {dag.py:2398} INFO - Creating ORM DAG for example_branch_python_operator_decorator
+[2023-02-12 13:57:52,345] {logging_mixin.py:115} INFO - [2023-02-12 13:57:52,345] {dag.py:2927} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2023-02-11T00:00:00+00:00, run_after=2023-02-12T00:00:00+00:00
+[2023-02-12 13:57:52,363] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 1.270 seconds

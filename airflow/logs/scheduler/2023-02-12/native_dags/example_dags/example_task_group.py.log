@@ -1,0 +1,18 @@
+[2023-02-12 13:56:53,355] {processor.py:153} INFO - Started process (PID=31821) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-12 13:56:53,356] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-02-12 13:56:53,356] {logging_mixin.py:115} INFO - [2023-02-12 13:56:53,356] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-12 13:56:53,405] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-12 13:56:54,514] {logging_mixin.py:115} INFO - [2023-02-12 13:56:54,513] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group
+[2023-02-12 13:56:54,525] {logging_mixin.py:115} INFO - [2023-02-12 13:56:54,525] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group
+[2023-02-12 13:56:54,533] {logging_mixin.py:115} INFO - [2023-02-12 13:56:54,533] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group
+[2023-02-12 13:56:54,534] {logging_mixin.py:115} INFO - [2023-02-12 13:56:54,533] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 13:56:54,544] {logging_mixin.py:115} INFO - [2023-02-12 13:56:54,544] {dag.py:2398} INFO - Creating ORM DAG for example_task_group
+[2023-02-12 13:56:54,557] {logging_mixin.py:115} INFO - [2023-02-12 13:56:54,557] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-02-11T16:56:54.556827+00:00, run_after=2023-02-12T16:56:54.556827+00:00
+[2023-02-12 13:56:54,575] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 1.220 seconds
+[2023-02-12 13:58:48,348] {processor.py:153} INFO - Started process (PID=31962) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-12 13:58:48,349] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-02-12 13:58:48,349] {logging_mixin.py:115} INFO - [2023-02-12 13:58:48,349] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-12 13:58:48,373] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-12 13:58:48,461] {logging_mixin.py:115} INFO - [2023-02-12 13:58:48,461] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 13:58:48,480] {logging_mixin.py:115} INFO - [2023-02-12 13:58:48,480] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-02-11T16:58:48.480456+00:00, run_after=2023-02-12T16:58:48.480456+00:00
+[2023-02-12 13:58:48,493] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.146 seconds

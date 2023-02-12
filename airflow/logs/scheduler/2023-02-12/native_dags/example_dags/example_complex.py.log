@@ -1,0 +1,11 @@
+[2023-02-12 13:57:43,488] {processor.py:153} INFO - Started process (PID=31859) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-02-12 13:57:43,489] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-02-12 13:57:43,489] {logging_mixin.py:115} INFO - [2023-02-12 13:57:43,489] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-02-12 13:57:43,546] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-02-12 13:57:44,757] {logging_mixin.py:115} INFO - [2023-02-12 13:57:44,757] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_complex
+[2023-02-12 13:57:44,768] {logging_mixin.py:115} INFO - [2023-02-12 13:57:44,768] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_complex
+[2023-02-12 13:57:44,777] {logging_mixin.py:115} INFO - [2023-02-12 13:57:44,777] {manager.py:508} INFO - Created Permission View: can read on DAG:example_complex
+[2023-02-12 13:57:44,778] {logging_mixin.py:115} INFO - [2023-02-12 13:57:44,777] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 13:57:44,789] {logging_mixin.py:115} INFO - [2023-02-12 13:57:44,789] {dag.py:2398} INFO - Creating ORM DAG for example_complex
+[2023-02-12 13:57:44,800] {logging_mixin.py:115} INFO - [2023-02-12 13:57:44,800] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-02-12 13:57:44,818] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 1.330 seconds

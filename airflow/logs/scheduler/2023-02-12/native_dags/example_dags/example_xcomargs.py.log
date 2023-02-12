@@ -1,0 +1,24 @@
+[2023-02-12 13:56:23,561] {processor.py:153} INFO - Started process (PID=31815) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-12 13:56:23,562] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-02-12 13:56:23,563] {logging_mixin.py:115} INFO - [2023-02-12 13:56:23,563] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-12 13:56:23,743] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-12 13:56:29,980] {logging_mixin.py:115} INFO - [2023-02-12 13:56:29,980] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args
+[2023-02-12 13:56:29,997] {logging_mixin.py:115} INFO - [2023-02-12 13:56:29,997] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args
+[2023-02-12 13:56:30,009] {logging_mixin.py:115} INFO - [2023-02-12 13:56:30,009] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args
+[2023-02-12 13:56:30,143] {logging_mixin.py:115} INFO - [2023-02-12 13:56:30,143] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args_with_operators
+[2023-02-12 13:56:30,151] {logging_mixin.py:115} INFO - [2023-02-12 13:56:30,151] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args_with_operators
+[2023-02-12 13:56:30,160] {logging_mixin.py:115} INFO - [2023-02-12 13:56:30,160] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args_with_operators
+[2023-02-12 13:56:30,160] {logging_mixin.py:115} INFO - [2023-02-12 13:56:30,160] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-12 13:56:30,174] {logging_mixin.py:115} INFO - [2023-02-12 13:56:30,174] {dag.py:2398} INFO - Creating ORM DAG for example_xcom_args_with_operators
+[2023-02-12 13:56:30,174] {logging_mixin.py:115} INFO - [2023-02-12 13:56:30,174] {dag.py:2398} INFO - Creating ORM DAG for example_xcom_args
+[2023-02-12 13:56:30,185] {logging_mixin.py:115} INFO - [2023-02-12 13:56:30,185] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-02-12 13:56:30,186] {logging_mixin.py:115} INFO - [2023-02-12 13:56:30,186] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-02-12 13:56:30,426] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 6.866 seconds
+[2023-02-12 13:58:32,621] {processor.py:153} INFO - Started process (PID=31944) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-12 13:58:32,621] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-02-12 13:58:32,622] {logging_mixin.py:115} INFO - [2023-02-12 13:58:32,622] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-12 13:58:32,668] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-02-12 13:58:33,681] {logging_mixin.py:115} INFO - [2023-02-12 13:58:33,681] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-12 13:58:33,710] {logging_mixin.py:115} INFO - [2023-02-12 13:58:33,710] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-02-12 13:58:33,711] {logging_mixin.py:115} INFO - [2023-02-12 13:58:33,710] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-02-12 13:58:33,746] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 1.126 seconds

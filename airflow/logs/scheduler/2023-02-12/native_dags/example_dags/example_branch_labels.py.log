@@ -1,0 +1,4 @@
+[2023-02-12 13:57:58,625] {processor.py:153} INFO - Started process (PID=31883) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-12 13:57:58,625] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-02-12 13:57:58,626] {logging_mixin.py:115} INFO - [2023-02-12 13:57:58,625] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-02-12 13:57:58,643] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py

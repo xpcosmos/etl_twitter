@@ -1,0 +1,18 @@
+[2023-02-12 13:55:40,562] {processor.py:153} INFO - Started process (PID=31802) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-12 13:55:40,599] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-12 13:55:40,646] {logging_mixin.py:115} INFO - [2023-02-12 13:55:40,646] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-12 13:55:41,280] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-12 13:55:54,226] {logging_mixin.py:115} INFO - [2023-02-12 13:55:54,226] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial_etl_dag
+[2023-02-12 13:55:54,406] {logging_mixin.py:115} INFO - [2023-02-12 13:55:54,405] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial_etl_dag
+[2023-02-12 13:55:54,444] {logging_mixin.py:115} INFO - [2023-02-12 13:55:54,443] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial_etl_dag
+[2023-02-12 13:55:54,444] {logging_mixin.py:115} INFO - [2023-02-12 13:55:54,444] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 13:55:54,508] {logging_mixin.py:115} INFO - [2023-02-12 13:55:54,508] {dag.py:2398} INFO - Creating ORM DAG for tutorial_etl_dag
+[2023-02-12 13:55:54,521] {logging_mixin.py:115} INFO - [2023-02-12 13:55:54,521] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-12 13:55:54,845] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py took 14.284 seconds
+[2023-02-12 13:58:28,689] {processor.py:153} INFO - Started process (PID=31942) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-12 13:58:28,703] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-12 13:58:28,704] {logging_mixin.py:115} INFO - [2023-02-12 13:58:28,704] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-12 13:58:28,738] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-12 13:58:28,833] {logging_mixin.py:115} INFO - [2023-02-12 13:58:28,833] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 13:58:28,853] {logging_mixin.py:115} INFO - [2023-02-12 13:58:28,853] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-12 13:58:28,867] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.180 seconds

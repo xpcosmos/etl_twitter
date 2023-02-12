@@ -1,0 +1,18 @@
+[2023-02-12 13:57:04,350] {processor.py:153} INFO - Started process (PID=31824) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-12 13:57:04,351] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-02-12 13:57:04,351] {logging_mixin.py:115} INFO - [2023-02-12 13:57:04,351] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-12 13:57:04,403] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-12 13:57:05,947] {logging_mixin.py:115} INFO - [2023-02-12 13:57:05,947] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2023-02-12 13:57:06,359] {logging_mixin.py:115} INFO - [2023-02-12 13:57:06,358] {manager.py:508} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2023-02-12 13:57:06,690] {logging_mixin.py:115} INFO - [2023-02-12 13:57:06,690] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2023-02-12 13:57:06,690] {logging_mixin.py:115} INFO - [2023-02-12 13:57:06,690] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 13:57:06,701] {logging_mixin.py:115} INFO - [2023-02-12 13:57:06,701] {dag.py:2398} INFO - Creating ORM DAG for example_skip_dag
+[2023-02-12 13:57:06,714] {logging_mixin.py:115} INFO - [2023-02-12 13:57:06,714] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-02-11T16:57:06.713792+00:00, run_after=2023-02-12T16:57:06.713792+00:00
+[2023-02-12 13:57:07,158] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 2.809 seconds
+[2023-02-12 13:58:55,467] {processor.py:153} INFO - Started process (PID=31973) to work on /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-12 13:58:55,467] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-02-12 13:58:55,468] {logging_mixin.py:115} INFO - [2023-02-12 13:58:55,468] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-12 13:58:55,486] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-02-12 13:58:55,577] {logging_mixin.py:115} INFO - [2023-02-12 13:58:55,577] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 13:58:55,599] {logging_mixin.py:115} INFO - [2023-02-12 13:58:55,599] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2023-02-11T16:58:55.599287+00:00, run_after=2023-02-12T16:58:55.599287+00:00
+[2023-02-12 13:58:55,614] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.148 seconds
