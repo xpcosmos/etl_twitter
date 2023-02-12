@@ -1,4 +1,6 @@
 from datetime import datetime, timedelta
+import requests
+import json
 import os
 
 
@@ -15,4 +17,7 @@ url_raw = f"https://api.twitter.com/2/tweets/search/recent?query={query}&{tweet_
 
 bearer_token = os.environ.get("BEARER_TOKEN")
 headers = {'Authorization':f'Bearer {bearer_token}'}
+response = requests.resquest("GET",url_raw=url_raw, headers=headers)
 
+json_response = response.json()
+print(json.dumps(json_response, indent=4, sort_keys=True))
