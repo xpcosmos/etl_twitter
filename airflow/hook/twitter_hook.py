@@ -35,13 +35,12 @@ class TwitterHook(HttpHook):
         return url_raw
     
     
-    def conn_to_endpoint(self, session, url):
-        
-        request = requests.Request("GET", url=url)
+    def conn_to_endpoint(self, url, session):
+        request = requests.Request("GET", url)
         prep = session.prepare_request(request)
         self.log.info(f'URL: {url}')
         
-        return self.run_and_check(session=session, prep=prep)
+        return self.run_and_check(session=session, prepped_request= prep, extra_options={})
     
     
     def paginate(self, url_raw, session):
