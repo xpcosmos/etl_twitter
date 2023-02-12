@@ -472,3 +472,51 @@ File Path                                                                       
 [2023-02-12 17:17:24,532] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
 [2023-02-12 17:22:24,987] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
 [2023-02-12 17:22:25,023] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:27:25,193] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:27:25,195] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:32:25,530] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:32:25,568] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:37:26,324] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:37:26,352] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:42:26,436] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:42:26,438] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:47:27,207] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:47:27,241] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:52:28,216] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:52:28,217] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:57:28,582] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 17:57:28,604] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:02:28,923] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:02:28,943] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:07:28,941] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:07:28,943] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:12:29,229] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:12:29,266] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:17:29,484] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:17:29,485] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:22:30,151] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:22:30,188] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:27:30,518] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:27:30,520] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:32:30,786] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:32:30,804] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:37:31,355] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:37:31,357] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:42:31,707] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:42:31,738] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:47:32,068] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:47:32,282] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:52:32,241] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:52:32,243] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:57:32,549] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 18:57:32,551] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 19:02:33,210] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 19:02:33,242] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 19:07:33,638] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 19:07:33,680] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 19:12:34,428] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 19:12:34,471] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 19:17:34,582] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 19:17:34,650] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 19:22:34,950] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
+[2023-02-12 19:22:34,963] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl_twitter/airflow/dags
